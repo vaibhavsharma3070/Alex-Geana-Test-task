@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "product_name": "The Better with You Duo",
+    "product_description":"limited edition",
+    "product_original_price":75,
+    "product_with_discount_price":68,
+    "product_images":[
+      "https://images.ctfassets.net/p3w8f4svwgcg/149K6vOGNh8FiI3MCiyHAg/2460bd06733da6079d313694d3f75516/essential-edit-01.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/3r6Tj1G0KXK7uOAomD1f4g/5cbe5ca8b890ffacad96979187bfabf4/essential-edit-02.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/5dFwoq6TndnqRJbHfyxNb9/db6db0c7a8db056d87fea17fd15dd322/Universal_Pro-Retinol_-_4.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "product_name": "Boy Brow",
+    "product_description":"grooming pomade",
+    "product_original_price":34,
+    "product_with_discount_price":30,
+    "product_images":[
+      "https://images.ctfassets.net/p3w8f4svwgcg/5J4UyO9oOsdn3rAejRnbx5/47005d126bf531beadf3fe6448007a93/Universal_Pro-Retinol_-_1.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/7DXzRY8EJW8leJuOkyXYA5/ae20fa2481b6b9d963a297702b73b2d9/Universal_Pro-Retinol_-_2.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/6HGLwXCijUk3TdvK5GEhRg/4421bc512270a9259a3830f861244708/Universal_Pro-Retinol_-_3.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/5dFwoq6TndnqRJbHfyxNb9/db6db0c7a8db056d87fea17fd15dd322/Universal_Pro-Retinol_-_4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "product_name": "Glossier You",
+    "product_description":"eau de parfum",
+    "product_original_price":60,
+    "product_with_discount_price":50,
+    "product_images":[
+      "https://images.ctfassets.net/p3w8f4svwgcg/4yaPsX1SaYpFfGjaOxy0yt/39601e753821ef7459069d6ad198f043/MilkyJelly_Carousel_1.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/2uYYEPLZLVIpMeo4LLOVt9/9c5c97e853aeb63154567e2cc6174c11/MilkyJelly_Carousel_2.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/sPIK9FmT5wLfjosacWR3g/e1720800e40a346615cdda6ba0d8d7fb/MilkyJelly_Carousel_3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "product_name": "The Essential Edit",
+    "product_description":"limited edition",
+    "product_original_price":50,
+    "product_with_discount_price":40,
+    "product_images":[
+      "https://images.ctfassets.net/p3w8f4svwgcg/149K6vOGNh8FiI3MCiyHAg/2460bd06733da6079d313694d3f75516/essential-edit-01.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/3r6Tj1G0KXK7uOAomD1f4g/5cbe5ca8b890ffacad96979187bfabf4/essential-edit-02.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/401XLxoCzedr6btAgNK4rt/51760c977abfb02209eaed33af12b76d/essential-edit-03.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "product_name": "Milky Jelly Cleanser",
+    "product_description":"conditioning face wash",
+    "product_original_price":13,
+    "product_with_discount_price":9,
+    "product_images":[
+      "https://images.ctfassets.net/p3w8f4svwgcg/4yaPsX1SaYpFfGjaOxy0yt/39601e753821ef7459069d6ad198f043/MilkyJelly_Carousel_1.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/2uYYEPLZLVIpMeo4LLOVt9/9c5c97e853aeb63154567e2cc6174c11/MilkyJelly_Carousel_2.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/sPIK9FmT5wLfjosacWR3g/e1720800e40a346615cdda6ba0d8d7fb/MilkyJelly_Carousel_3.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "product_name": "Universal Pro-Retinol",
+    "product_description":"nightly renewing complex",
+    "product_original_price":30,
+    "product_with_discount_price":25,
+    "product_images":[
+      "https://images.ctfassets.net/p3w8f4svwgcg/5J4UyO9oOsdn3rAejRnbx5/47005d126bf531beadf3fe6448007a93/Universal_Pro-Retinol_-_1.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/7DXzRY8EJW8leJuOkyXYA5/ae20fa2481b6b9d963a297702b73b2d9/Universal_Pro-Retinol_-_2.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/6HGLwXCijUk3TdvK5GEhRg/4421bc512270a9259a3830f861244708/Universal_Pro-Retinol_-_3.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/5dFwoq6TndnqRJbHfyxNb9/db6db0c7a8db056d87fea17fd15dd322/Universal_Pro-Retinol_-_4.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "product_name": "The Skincare Edit",
+    "product_description":"mini skincare essentials",
+    "product_original_price":50,
+    "product_with_discount_price":45,
+    "product_images":[
+      "https://images.ctfassets.net/p3w8f4svwgcg/6RAYI4KkvIcP9GKFKqMFIz/a8f7fa5b53dea4f3439cf5861a29da38/01.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/4E7T6gHDOnlznnRLYc0icG/efc2979720cda036c6b490dc52a90409/02.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/Yvocf7JvV95KCIBshf6fy/428d2fb42f0e2baf3f05138fb9bd77de/04.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "product_name": "Universal Pro-Retinol",
+    "product_description":"nightly renewing complex",
+    "product_original_price":35,
+    "product_with_discount_price":33,
+    "product_images":[
+      "https://images.ctfassets.net/p3w8f4svwgcg/5J4UyO9oOsdn3rAejRnbx5/47005d126bf531beadf3fe6448007a93/Universal_Pro-Retinol_-_1.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/7DXzRY8EJW8leJuOkyXYA5/ae20fa2481b6b9d963a297702b73b2d9/Universal_Pro-Retinol_-_2.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/6HGLwXCijUk3TdvK5GEhRg/4421bc512270a9259a3830f861244708/Universal_Pro-Retinol_-_3.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/5dFwoq6TndnqRJbHfyxNb9/db6db0c7a8db056d87fea17fd15dd322/Universal_Pro-Retinol_-_4.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "product_name": "The Skincare Edit",
+    "product_description":"full Glossier skincare routine",
+    "product_original_price":65,
+    "product_with_discount_price":60,
+    "product_images":[
+      "https://images.ctfassets.net/p3w8f4svwgcg/6RAYI4KkvIcP9GKFKqMFIz/a8f7fa5b53dea4f3439cf5861a29da38/01.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/4E7T6gHDOnlznnRLYc0icG/efc2979720cda036c6b490dc52a90409/02.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/Yvocf7JvV95KCIBshf6fy/428d2fb42f0e2baf3f05138fb9bd77de/04.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "product_name": "The Universal Edit",
+    "product_description":"full nightly renewing",
+    "product_original_price":85,
+    "product_with_discount_price":80,
+    "product_images":[
+      "https://images.ctfassets.net/p3w8f4svwgcg/6RAYI4KkvIcP9GKFKqMFIz/a8f7fa5b53dea4f3439cf5861a29da38/01.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/4E7T6gHDOnlznnRLYc0icG/efc2979720cda036c6b490dc52a90409/02.jpg",
+      "https://images.ctfassets.net/p3w8f4svwgcg/Yvocf7JvV95KCIBshf6fy/428d2fb42f0e2baf3f05138fb9bd77de/04.jpg"
+    ]
+  }
+]

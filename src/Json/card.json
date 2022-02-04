@@ -1,0 +1,21 @@
+[
+    {
+      "product": {
+        
+            "id": 1,
+            "product_name": "The Better with You Duo",
+            "product_description":"limited edition",
+            "product_original_price":75,
+            "product_with_discount_price":68,
+            "product_images":[
+              "https://images.ctfassets.net/p3w8f4svwgcg/149K6vOGNh8FiI3MCiyHAg/2460bd06733da6079d313694d3f75516/essential-edit-01.jpg",
+              "https://images.ctfassets.net/p3w8f4svwgcg/3r6Tj1G0KXK7uOAomD1f4g/5cbe5ca8b890ffacad96979187bfabf4/essential-edit-02.jpg",
+              "https://images.ctfassets.net/p3w8f4svwgcg/5dFwoq6TndnqRJbHfyxNb9/db6db0c7a8db056d87fea17fd15dd322/Universal_Pro-Retinol_-_4.jpg"
+            ]
+         
+      },
+      "quantity": 1,
+      "original_price":75,
+      "total": 75
+    }
+]
